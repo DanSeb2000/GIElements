@@ -1,0 +1,7 @@
+name: Elements
+version: @version@
+main: me.danseb.elements.Main
+api-version: 1.16
+authors: [ DanSeb2000 ]
+description: TODO
+website: https://github.com/DanSeb2000
